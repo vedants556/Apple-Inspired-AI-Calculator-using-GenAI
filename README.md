@@ -67,7 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Vedant Shelar
 - GitHub: [@vedants556](https://github.com/vedants556)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- LinkedIn: [vedant-shelar](www.linkedin.com/in/vedant-shelar-41923724b)
 
 ## 🙏 Acknowledgements
 
