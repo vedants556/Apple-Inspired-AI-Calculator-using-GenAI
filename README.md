@@ -27,8 +27,7 @@ This project is a web application that allows users to draw mathematical equatio
 
 1. Clone the repository:
    ```
-   git clone https://github.com/vedants556/ai_calculator_app
-   cd ai_calculator_app
+   git clone https://github.com/vedants556/Apple-Inspired-AI-Calculator-using-GenAI.git
    ```
 
 2. Install the required dependencies:
@@ -58,7 +57,7 @@ This project is a web application that allows users to draw mathematical equatio
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/ai_calculator_app/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/vedants556/ai_calculator_app/issues) if you want to contribute.
 
 ## 📜 License
 
@@ -68,7 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Vedant Shelar
 - GitHub: [@vedants556](https://github.com/vedants556)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- LinkedIn: [vedant-shelar](www.linkedin.com/in/vedant-shelar-41923724b)
 
 ## 🙏 Acknowledgements
 
